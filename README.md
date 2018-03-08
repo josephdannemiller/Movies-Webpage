@@ -5,5 +5,5 @@ The purpose of this project is to demonstrate the power of Classes in Python.  I
 * Make sure that [Python](https://www.python.org/) is installed on your computer.
 * Download the ZIP file or clone the directory to save the included files to your computer
 * Using the Command Line change directories to access the location of the files you downloaded
-* On Windows use the following command to run the program: 
-* On MAC use the following command to run the program: 
+* On Windows use the following command to run the program: `winpty python entertainment_center.py`
+* On MAC use the following command to run the program: `python entertainment_center.py`
